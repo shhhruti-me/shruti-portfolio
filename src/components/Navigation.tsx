@@ -3,8 +3,8 @@ import React from 'react';
 const Navigation = () => {
   const navItems = [
     { label: 'Projects', href: '/projects' },
-    { label: 'About', href: '#about' },
-    { label: 'Contact', href: '#contact' },
+    { label: 'About', href: '/about' },
+    { label: 'Contact', href: '/contact' },
   ];
 
   return (
